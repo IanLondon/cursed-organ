@@ -25,7 +25,18 @@ files = [
     {file = "micropython_stdlib_stubs-1.1.2.tar.gz", hash = "sha256:0e20e044f24b7f5d67205fd08780aa4ca0ea3741e4d14406ff7dca1ed8364f49"},
 ]
 
+[[package]]
+name = "umidiparser"
+version = "1.2"
+description = "umidiparser - low footprint MIDI file parser for Micropython, CircuitPython and Python"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "umidiparser-1.2-py3-none-any.whl", hash = "sha256:c643fff2b8beb32f0868d3cfe51b423086f2d54519574b2a74bc5c01c657deff"},
+    {file = "umidiparser-1.2.tar.gz", hash = "sha256:7c779396895e3b991110211521f7430a510964fa8fdc75f6e64cbad0da077e0f"},
+]
+
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "1dde8d19f6e34630bcb5d82dc1878c8d456a74d55792c71bf2335114f3877bd3"
+content-hash = "875f08b8c2083528d1012e24fe38148b0b685aab71a02017c7967f774c2a2cca"
