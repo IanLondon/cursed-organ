@@ -17,6 +17,7 @@ Through a Micropython script, a MIDI file is used to drive servo motors that con
 Currently manually installed directly to your Pico board with `mprimote mip`. Do:
 
 - `mpremote mip install github:bixb922/umidiparser`
+- `mpremote mip install github:jposada202020/MicroPython_PCA9685`
 
 ## Linting
 
